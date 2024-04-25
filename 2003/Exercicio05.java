@@ -15,7 +15,7 @@ public class Exercicio05 {
 class Carro{
     String marca;
     String modelo;
-    int ano;
+    int ano; 
     float velocidade_atual;
     
     public void status(){
